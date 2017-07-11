@@ -1,0 +1,41 @@
+/* CSS declarations go here */
+
+.top-margin{
+	margin-top:50px;
+}
+
+#viewer_iframe{
+	border:1px solid gray;
+	resize:both;
+	width:100%;
+}
+
+.thumbnail{
+	width:100%;	
+    margin:10px;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+.cen{
+    
+    background-color: whitesmoke;
+    padding: 10px;
+}
+.pen{
+    
+    margin-top: 10px;
+}
+body{
+    
+    background-color: white;
+}
+.cet{
+    margin: 5px;
+}
+.well{
+    background-color: ghostwhite;
+}
+.cey{
+    border:1px solid gray;
+    resize:both;
+}
